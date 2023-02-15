@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  A talented software developer with 5+ years experience in building, deploying, maintaining, and updating large scale systems in various sectors. A multi-faceted developer, knowledgeable in Java, SQL, React, Spring Boot, TensorFlow and Python. A true team player with experience working on development teams from South Africa, Zimbabwe, India and China. Analytical, motivated and hardworking with a strive for excellence displayed in hereunder results of past works.
+  Being the change we wish to see in the world is central to Our Philosophy. To accomplish this Our Mission statement is to establish ecosystems of African technological products that are human centric. A unified African technological revolution that ushers in the new era is what we envision. Our Objectives are in innovation and quality based, with research and development as a key areas of emphasis, to achieve this.
 </p>
 
 <!-- Social icons section -->
